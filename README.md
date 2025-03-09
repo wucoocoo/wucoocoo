@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Student: Microwave, Condensed Matter
+Student, Wuhan University, Majoring Microwave and Condensed Matter.
 
 <!--
 **wucoocoo/wucoocoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
